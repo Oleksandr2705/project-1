@@ -79,10 +79,8 @@ nav {
   margin: 0px;
 }
 .section-description {
-margin-bottom: 20px;
-
+  margin-bottom: 20px;
 }
-
 
 .section-description__icon-box {
   text-align: center;
@@ -110,23 +108,19 @@ margin-bottom: 20px;
   margin: 0 auto;
 }
 .section-map {
-margin-bottom: 20px;
-
-
+  margin-bottom: 20px;
 }
-
-
 
 .section-map__title {
-margin-bottom: 20px;
-text-align: center;
-font-size: 36px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 36px;
 }
 iframe {
-display: block;
-margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 }
-/* Линия подкартой */ 
+/* Линия подкартой */
 /* .line {
 border-top: 1px solid #999999;
 width: 1024px;
@@ -134,11 +128,11 @@ margin: 0 auto;
 } */
 /* Линия подкартой 2 вариант */
 hr {
-border: none;
-border-top: 1px solid #999999;
-width: 1024px;
-margin: 0 auto;
-margin-bottom: 20px;
+  border: none;
+  border-top: 1px solid #999999;
+  width: 1024px;
+  margin: 0 auto;
+  margin-bottom: 20px;
 }
 footer {
   height: 80px;
